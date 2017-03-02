@@ -1,0 +1,8 @@
+yarn add redux-saga
+
+reduxsauce
+seamless-immutable
+react-redux
+react-native-router-flux
+
+npm install antd-mobile --save
